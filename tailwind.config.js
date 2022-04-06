@@ -8,6 +8,9 @@ module.exports = {
           dark: "#672280",
         },
       },
+      fontFamily: {
+        oswald: ["Oswald", "sans-serif"],
+      },
     },
   },
   plugins: [],
