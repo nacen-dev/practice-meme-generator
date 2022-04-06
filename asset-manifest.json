@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/practice-meme-generator/static/css/main.40ce9e0b.css",
+    "main.js": "/practice-meme-generator/static/js/main.5ca6d123.js",
+    "static/media/Troll Face.svg": "/practice-meme-generator/static/media/Troll Face.27ce06f76ec3e221bf9e1895ce72fa85.svg",
+    "index.html": "/practice-meme-generator/index.html",
+    "main.40ce9e0b.css.map": "/practice-meme-generator/static/css/main.40ce9e0b.css.map",
+    "main.5ca6d123.js.map": "/practice-meme-generator/static/js/main.5ca6d123.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40ce9e0b.css",
+    "static/js/main.5ca6d123.js"
+  ]
+}
